@@ -1,0 +1,197 @@
+
+
+.Welcome-Container{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    padding: 4% 10%;
+    overflow: hidden;
+}
+
+
+
+.Welcome-NavBar{
+    background-color: transparent;
+    animation-delay: 0.25s;
+}
+
+.Welcome-NavBar-Left-Icon{
+    color: #000000;
+    font-family: Ungai;
+    font-size: 30px;
+}
+
+.Welcome-NavBar-Left-Button{
+    color: #000000;
+    margin-left: 50px;
+    font-family: Montserrat-ExtraBold;
+    font-weight: bold;
+}
+
+.Welcome-NavBar-Left-Icon:hover, .Welcome-NavBar-Left-Button:hover{
+    transition: all 0.7s ease-in-out;
+    color: #14bf5c;
+}
+
+.Welcome-NavBar-Right-Icon{
+    color: #00000080;
+    float: right;
+    font-family: Ungai;
+    font-size: 30px;
+}
+
+.Welcome-NavBar-Right-Icon:hover{
+    transition: all 0.7s ease-in-out;
+    color: #630010;
+}
+
+
+
+
+
+.Welcome-Box1{
+    margin-top: 8%;
+    width: 35%;
+}
+
+.About .Welcome-Box1{
+    margin-top: 6%;
+}
+
+.Signin .Welcome-Box1{
+    margin: 0 auto;
+    margin-top: 5%;
+    width: 45%;
+    text-align: center;
+}
+
+.Text1{animation-delay: 0.75s;}
+
+.Login .Text1{font-size: 70px;}
+
+.Text3{animation-delay: 1.25s;}
+
+.Input{
+    width: 90%;
+    height: 50px;
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+    font-family: Montserrat-Regular;
+    font-weight: bold;
+    outline: none;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    animation-delay: 1.25s;
+}
+
+.Button1{
+    display: inline-block;
+    padding: 10px 25px;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Montserrat-ExtraBold;
+    animation-delay: 1.75s;
+}
+
+.Button2{
+    display: inline-block;
+    padding: 10px 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: Montserrat-ExtraBold;
+    color: black;
+    animation-delay: 1.75s;
+}
+
+.Button1:hover, .Button2:hover{
+    background-color: #0000001b;
+    border: 2px solid transparent;
+    color: white;
+    transition: all 1s ease-in-out;
+}
+
+
+
+.Welcome-Box2{
+    margin-top: 9%;
+    width: 230px;
+    overflow: hidden;
+    animation-delay: 2.25s;
+}
+
+.About .Welcome-Box2{
+    margin-top: 2%;
+}
+
+.Signin .Welcome-Box2{
+    margin: 0 auto;
+    margin-top: 5%;
+    text-align: center;
+}
+
+
+.Welcome-Box2-Slide{
+    display: none;
+    width: 226px;
+}
+
+.Welcome-Box2-SlideControl{
+    display: inline-block;
+    width: 30px;
+    height: 8px;
+    background-color: #0000001b;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.Welcome-Box2-SlideControl-Actived{
+    background-color: black;
+}
+
+
+
+
+
+.Welcome-Image{
+    width: 65%;
+    height: 90%;
+    position: absolute;
+    z-index: -1;
+    top: 10%;
+    right: 2%;
+    /* background-color: black; */
+    background-size: cover;
+    background-position: top;
+    animation-delay: 1.25s;
+    overflow: hidden;
+}
+
+
+.white{
+    color: white;
+}
+
+.white-bg{
+    background-color: white;
+    border: 2px solid white;
+    color: #000000;
+}
+
+.white-border{
+    border: 2px solid white;
+    color: white;
+}
+
+.white-input{
+    border-bottom: 1px solid white;
+    color: white;
+}
+
