@@ -21,6 +21,8 @@ Tous Navigateurs Web
 Langue :
 Francais - Anglais - Japonais
 
+
+
 ![MyOtaku-Page01](https://github.com/Airblack28/MyOtaku/assets/86264705/983ec21c-f74f-4a52-8287-39de4a67b747)
 
 ![MyOtaku-Page02](https://github.com/Airblack28/MyOtaku/assets/86264705/925ba996-e201-41cc-a3f0-6266faf28fb9)
