@@ -20,3 +20,5 @@ Tous Navigateurs Web
 
 Langue :
 Francais - Anglais - Japonais
+
+[MyOtaku.pdf](https://github.com/Airblack28/MyOtaku/files/14548877/MyOtaku.pdf)
